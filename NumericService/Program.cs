@@ -10,8 +10,8 @@ class Program
 
         double number = -24723445.459012;
         int precision = 3;
-        string groupSeparator = ",";
-        string decimalSeparator = ".";
+        string groupSeparator = Separator.COMMA;
+        string decimalSeparator = Separator.DOT;
         string format = $"#{groupSeparator}##0{decimalSeparator}000";
 
         // DemoInlineFormatting();
