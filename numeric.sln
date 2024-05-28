@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericService", "NumericService\NumericService.csproj", "{6FC80DCF-7178-4483-BAAD-06EE90714E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericService.Tests", "NumericService.Tests\NumericService.Tests.csproj", "{DAA136D6-2D91-4AF3-A9B7-0C439F6CD830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC80DCF-7178-4483-BAAD-06EE90714E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC80DCF-7178-4483-BAAD-06EE90714E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC80DCF-7178-4483-BAAD-06EE90714E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC80DCF-7178-4483-BAAD-06EE90714E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA136D6-2D91-4AF3-A9B7-0C439F6CD830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA136D6-2D91-4AF3-A9B7-0C439F6CD830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA136D6-2D91-4AF3-A9B7-0C439F6CD830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA136D6-2D91-4AF3-A9B7-0C439F6CD830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
