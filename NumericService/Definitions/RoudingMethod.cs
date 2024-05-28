@@ -1,4 +1,4 @@
-namespace Numeric.Definitions;
+namespace Numeric;
 
 public static class RoundingMethod
 {

@@ -1,6 +1,7 @@
-namespace Numeric.Definitions;
+namespace Numeric;
 
-public static class Operator {
+public static class Operator
+{
     public const string ADDITION = "ADDITION";
     public const string SUBTRACTION = "SUBTRACTION";
     public const string DIVISION = "DIVISION";

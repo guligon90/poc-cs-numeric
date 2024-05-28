@@ -1,4 +1,4 @@
-namespace Numeric.Definitions;
+namespace Numeric;
 
 public class Result(double? value = null, string? errorMessage = null)
 {
